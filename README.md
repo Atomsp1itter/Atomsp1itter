@@ -1,6 +1,6 @@
 # Simon Greenwood
 
-![Simon Greenwood](https://github.com/Atomsp1itter/Atomsp1itter/blob/main/SimonLoResBW.jpg)
+![Simon Greenwood](https://github.com/Atomsp1itter/Atomsp1itter/blob/main/SimonPhotoSmall.jpg)
 
 Aspiring web developer in [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs)](https://skills.thijs.gg)
 
