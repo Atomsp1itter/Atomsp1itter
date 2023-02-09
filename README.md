@@ -6,6 +6,8 @@ Aspiring web developer in [![My Skills](https://skills.thijs.gg/icons?i=js,react
 
 Freelance corporate video producer at [Wideframe Video Production](http://wideframe.uk)
 
+Based South East of London, UK
+
 Feel free to reach out to me at [LinkedIn/Simon](https://www.linkedin.com/in/simongreenwooduk/)
 
 - 👀 I’m interested in web development and Adobe After Effects expressions.
