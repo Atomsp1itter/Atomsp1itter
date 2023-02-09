@@ -1,11 +1,15 @@
 # Simon Greenwood
 
-- 👋 Hi, I’m @Atomsp1itter
-- 👀 I’m interested in web development and Adobe After Effects expressions.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on something at some point.
-- 📫 How to reach me ... https://www.linkedin.com/in/simongreenwooduk/
+Aspiring web developer in [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs)](https://skills.thijs.gg)
 
+Freelance corporate video producer at [Wideframe Video Production](http://wideframe.uk)
+
+Feel free to reach out to me at [LinkedIn/Simon](https://www.linkedin.com/in/simongreenwooduk/)
+
+- 👀 I’m interested in web development and Adobe After Effects expressions.
+- 🌱 I’m currently developing my capabilities in React.
+- 💞️ I’m open to collaborations.
+- Why @Atomsp1itter? Previous username for gaming, Discord etc :)
 
 
 
