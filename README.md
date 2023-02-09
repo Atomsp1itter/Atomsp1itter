@@ -1,5 +1,7 @@
 # Simon Greenwood
 
+![Simon Greenwood](https://github.com/Atomspl1tter/Atomspl1tter/SimonLoResBW.jpg)
+
 Aspiring web developer in [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs)](https://skills.thijs.gg)
 
 Freelance corporate video producer at [Wideframe Video Production](http://wideframe.uk)
